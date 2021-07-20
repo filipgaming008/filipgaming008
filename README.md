@@ -1,9 +1,5 @@
 <div align="center">
 
-<!-- ok so you can add a baner here if you want filip -->
-<img width="100%" height = "250px" src="" alt="cover" />
-</div>
-
 <!--at the src            this is where you can add a gif -->
 <h1> 
     Hello Fellow Developers <img src = "" width = 50px> 
