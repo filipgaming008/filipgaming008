@@ -14,7 +14,7 @@
 <!--at the src            this is where you can add a gif -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
 
-- 🔭 I am currently working on none
+- 🔭 I am currently working on a CPU design and the Assembler for that CPU
 
 - 🌱 I'm currently learning Assembly And Computer engineering
 
