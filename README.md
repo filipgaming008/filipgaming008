@@ -1,7 +1,7 @@
 
 <!--at the src            this is where you can add a gif -->
 <h1> 
-    Hello Fellow Developers <img src = "" width = 50px> 
+    Hello Fellow Developers
 </h1>
 <p align='center'>
 
