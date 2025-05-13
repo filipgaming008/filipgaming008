@@ -6,13 +6,13 @@
   <tr>
     <td width="50%" valign="top">
 
-#### My name is Filip. I am currently studying at [FCSE](https://www.finki.ukim.mk/).
+#### My name is Filip. I am currently studying at [FCSE](https://www.finki.ukim.mk/en)
 
 ### **What I'm currently working on**  
 - **Creating a Game Engine from scratch - [Valkron](https://github.com/filipgaming008/Valkron)**
 - **Learning about Graphics Programming and OpenGL** ***, Vulkan soon?*** **- [OpenGL](https://github.com/filipgaming008/OpenGL)**
 
-<br>
+##
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipgaming008&layout=compact&theme=dark" />
