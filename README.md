@@ -9,7 +9,7 @@
 #### My name is Filip. I am currently studying at [FCSE](https://www.finki.ukim.mk/en)
 
 ### **What I'm currently working on**  
-- **Creating a Game Engine from scratch - [Valkron](https://github.com/filipgaming008/Valkron)**
+- **Creating a Game Engine - [Valkron](https://github.com/filipgaming008/Valkron)**
 - **Learning about Graphics Programming and OpenGL** ***, Vulkan soon?*** **- [OpenGL](https://github.com/filipgaming008/OpenGL)**
 
 ##
